@@ -1,0 +1,12 @@
+body {
+    background: #181e44;
+}
+
+#appFrame {
+    position: absolute;
+    top: 0;
+    left: 25%;
+    right: auto;
+    width: 50%;
+    height: 100%;
+}
